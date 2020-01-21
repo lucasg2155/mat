@@ -63,7 +63,7 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, creado por
           {` `}
           <a href="http://www.ggcon.com.ar">ggcon</a>
         </footer>
