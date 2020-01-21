@@ -57,7 +57,7 @@ const Bio = () => {
         Hola soy <strong>{author}</strong> escribo sobre
         Matemáticas, conocer más en.
         {` `}
-        <a href={`${siteUrl}`}>
+        <a href="http://www.ggcon.com.ar">
           ggcon
         </a>
       </p>

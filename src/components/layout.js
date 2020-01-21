@@ -65,8 +65,17 @@ class Layout extends React.Component {
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="http://www.ggcon.com.ar">ggcon</a>
         </footer>
+        <a
+        className = "elemento de barra de navegación"
+        href = "/admin/"
+        target = "_ blank"
+        rel = "noopener noreferrer"
+        >
+        Admin
+        </a> 
+
       </div>
     )
   }
