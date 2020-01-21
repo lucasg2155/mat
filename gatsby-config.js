@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Matemáticas`,
+    title: `Mate-tic`,
     author: `Gabriel`,
     description: `espacio de construcción de matemáticas.`,
     siteUrl: `http://ggcon.com.ar/`,
