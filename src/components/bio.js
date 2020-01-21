@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Hola soy <strong>{author}</strong> escribo sobre
-        Matemáticas, conocer más en.
+        Hola soy <strong>{author}</strong>; escribo sobre
+        Matemáticas, conocer más en:
         {` `}
         <a href="http://www.ggcon.com.ar">
           ggcon
